@@ -4,6 +4,7 @@ npm-debug.log
 npm-debug.log*
 nohup.out
 node_modules
+package-lock.json
 .cache
 .eslintcache
 
